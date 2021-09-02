@@ -30,5 +30,5 @@ if (lista.length < 100) {
     console.log("Cadastro não permitido pela idade.");
   }
 } else {
-  console.log("limite de participantes excedido!");
+  console.log("limite de participantes foi excedido " + nome);
 }
